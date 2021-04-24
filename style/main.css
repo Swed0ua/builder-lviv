@@ -116,7 +116,7 @@ body {
     position: relative;
     overflow: hidden;
     min-height: 100vh;
-    height: 500px !important; }
+   }
   .container .logo {
     font-size: 24px;
     letter-spacing: 0.2px;
